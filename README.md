@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @emiliodifabio
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning html - css - javascript
-- 💞️ I’m looking to collaborate on [off]
-- 📫 How to reach me [off]
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning HTML, CSS (SCSS), JavaScript.
 
 <!---
 emiliodifabio/emiliodifabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
