@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emiliodifabio
-- 👀 I’m interested in front end development.
+- 👀 I’m interested in Front End Development / Web Development.
 - 🌱 I’m currently learning HTML, CSS (SCSS), JavaScript.
 
 <!---
