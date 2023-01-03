@@ -7,7 +7,7 @@ I'm an aspiring Front-End Developer.
 15+ years Customer Support and Back Office experience and now, I wanna mix it with my love with build things for others.
 
 * 🌍  I'm based in Milan, Italy
-* 🧠  I'm learning JavaScript, JAVA, PHP
+* 🧠  I'm learning JavaScript, VueJS, JAVA, PHP
 * 🤝  I'm open to collaborating on projects who help me to improve my knowledge and my skills
 
 ### Skills
