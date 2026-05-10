@@ -3,7 +3,7 @@ ENG:
 Hi! 👋 My name is Emilio.
 =========================
 
-I'm a Help Desk specialist and internal analyst at one of the leading software houses in Italy.
+I'm a Help Desk specialist and internal analyst and tester at one of the leading software houses in Italy.
 
 ------------------------------------
 
@@ -50,7 +50,7 @@ ITA:
 Ciao! 👋 Mi chiamo Emilio.
 =========================
 
-Sono uno specialista Help Desk e analista interno presso una delle principali software house in Italia.
+Sono uno specialista Help Desk e analista e tester interno presso una delle principali software house in Italia.
 
 ------------------------------------
 
